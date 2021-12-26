@@ -32,7 +32,7 @@
   "dependencies": {
     "@ledgerhq/hw-app-eth": "^4.56.0",
     "@ledgerhq/hw-transport-u2f": "^4.56.0",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bignumber.js": "^8.1.1",
     "bip39": "^3.0.2",
     "blueimp-md5": "^2.10.0",
