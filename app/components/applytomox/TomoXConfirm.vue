@@ -149,7 +149,7 @@ export default {
             account: '',
             newFee: '',
             currentFee: '',
-            txFee: 1000,
+            txFee: 0.005,
             token: {},
             config: {},
             loading: false,
