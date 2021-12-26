@@ -5,7 +5,7 @@ info:
   description: Happy to code TomoIssuer APIs
   license:
     name: Github
-    url: 'https://github.com/tomochain/tomoissuer'
+    url: 'https://github.com/tomoChainC/tomoissuer'
 tags:
   - name: Config
     description: Get TomoIssuer Application Configuration
