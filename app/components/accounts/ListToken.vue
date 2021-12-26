@@ -92,7 +92,7 @@
                                         Apply to TomoX
                                     </b-dropdown-item>
                                     <b-dropdown-item
-                                        href="https://github.com/tomochain/tokens"
+                                        href="https://github.com/TomoChainC/tokens"
                                         target="_blank">
                                         Update Token Info
                                     </b-dropdown-item>
